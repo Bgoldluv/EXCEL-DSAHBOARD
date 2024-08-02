@@ -1,6 +1,6 @@
-##**Data-Driven Excellence in Order Fulfillment: Excel Dashboards to Vanquish Backlogs**
+# Data-Driven Excellence in Order Fulfillment: Excel Dashboards to Vanquish Backlogs
 
-**Business Overview/Problem**
+# Business Overview/Problem
 At Streamline Logistics Solutions, we encounter several pressing challenges within our order fulfillment process:
  
 ✓ Mounting Order Backlogs: Our current routing and resource allocation processes have resulted in a growing backlog of orders, compromising delivery timelines and, in turn, customer satisfaction.
@@ -11,14 +11,14 @@ At Streamline Logistics Solutions, we encounter several pressing challenges with
  
 ✓ Escalating Costs: Operational expenses are on the rise due to overtime payments and the necessity for expedited shipping to clear order backlogs.
 
-**Rationale for the Project**
+# Rationale for the Project
 - Order Fulfillment is the process of receiving, processing, and delivering customer orders. It involves activities such as inventory management, order processing, picking and packing products, and shipping them to customers. While Backlogs in the context of order fulfillment refer to a situation where there is a delay or accumulation of unprocessed orders. 
 
 - Backlogs can result from various factors, including high demand, operational inefficiencies, or unforeseen disruptions, and they can negatively impact customer satisfaction, as customers may experience delays in receiving their orders. Eliminating backlogs is crucial to ensuring timely and reliable order fulfillment.
 
 - Order fulfillment is the linchpin of our operations in the Logistics and Supply Chain industry, where efficiency is not merely a goal but a necessity.
 -
-- **Let's delve into why this project is absolutely vital for Streamline Logistics Solutions:**
+- # Let's delve into why this project is absolutely vital for Streamline Logistics Solutions:
  ✓ Customer Satisfaction: Enhancing our order fulfillment processes directly translates into heightened customer satisfaction, thereby nurturing loyalty and long-term relationships.
  
 ✓ Operational Efficiency: Improved efficiency leads to cost savings and heightened profitability, bolstering our competitive position within the industry.
@@ -27,7 +27,7 @@ At Streamline Logistics Solutions, we encounter several pressing challenges with
  
 ✓ Reputation Management: Addressing these operational challenges is paramount to preserving Streamline Logistics Solutions' sterling reputation for delivering excellence consistently.
 
-**Aim of the Project**
+# Aim of the Project
 This project's primary objectives are to develop an Excel interactive dashboard that provides unparalleled visibility into our order fulfillment processes. Through this, we aim to:
  
 ✓ Efficiently allocate delivery resources based on order volume and location.
@@ -36,7 +36,7 @@ This project's primary objectives are to develop an Excel interactive dashboard 
 ✓ Reduce order backlogs and operational costs.
 ✓ Elevate overall customer satisfaction and safeguard our reputation as an industry leader.
 
-**Data Description**
+# Data Description
 This case study contains a single dataset and it comprises of;
  ✓ Order ID: A unique identifier for each customer order.
 ✓ Delivery Address: The address to which the order is to be delivered.
